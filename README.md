@@ -8,6 +8,11 @@
 
 hrtimemock is a mocking function that causes `process.hrtime` to output what ever time should have elapsed.
 
+## hrtimemock(mstime)
+monkeypatches `process.hrtime` and for the second call returns the elapsed time specified by `mstime` in the familiar array form.
+
+* `mstime` time in milliseconds
+
 ## Example
 
 ````
