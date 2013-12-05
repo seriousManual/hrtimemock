@@ -1,6 +1,6 @@
 {
   "name": "hrtimemock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mocking lib for process.hrtime",
   "main": "index.js",
   "scripts": {
