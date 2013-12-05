@@ -1,0 +1,28 @@
+{
+  "name": "hrtimemock",
+  "version": "0.0.0",
+  "description": "mocking lib for process.hrtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zaphod1984/hrtimemock.git"
+  },
+  "keywords": [
+    "hrtime",
+    "process.hrtime",
+    "high resolution timer",
+    "mock"
+  ],
+  "author": "Manuel Ernst <zaphod84@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaphod1984/hrtimemock/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1",
+    "chai": "~1.8.1"
+  }
+}
