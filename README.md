@@ -22,5 +22,5 @@ console.log(elapsed); //will output [1,0]
 ````
 
 ## Notice:
-Works only for a pair of `process.hrtime` calls.
+Works only for a pair of `process.hrtime` calls.  
 After that it has to be called again.
