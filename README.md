@@ -1,6 +1,4 @@
-# hrtimemock
-
-[![Build Status](https://travis-ci.org/seriousManual/hrtimemock.png)](https://travis-ci.org/seriousManual/hrtimemock)
+# hrtimemock [![Build Status](https://travis-ci.org/seriousManual/hrtimemock.png)](https://travis-ci.org/seriousManual/hrtimemock)
 
 [![NPM](https://nodei.co/npm/hrtimemock.png)](https://nodei.co/npm/hrtimemock/)
 
