@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zaphod1984/hrtimemock.git"
+    "url": "git://github.com/seriousManual/hrtimemock.git"
   },
   "keywords": [
     "hrtime",
@@ -19,10 +19,10 @@
   "author": "Manuel Ernst <zaphod84@gmx.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zaphod1984/hrtimemock/issues"
+    "url": "https://github.com/seriousManual/hrtimemock/issues"
   },
   "devDependencies": {
-    "mocha": "~1.15.1",
-    "chai": "~1.8.1"
+    "mocha": "^1.15.1",
+    "chai": "^1.8.1"
   }
 }
