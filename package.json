@@ -22,7 +22,7 @@
     "url": "https://github.com/seriousManual/hrtimemock/issues"
   },
   "devDependencies": {
-    "mocha": "1.21.5",
+    "mocha": "2.3.3",
     "chai": "1.10.0"
   }
 }
